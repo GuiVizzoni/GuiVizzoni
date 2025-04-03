@@ -11,8 +11,8 @@
 
 ## 📈 Estatísticas do GitHub  
 <div>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GuiVizzoni&show_icons=true&theme=github_dark"/> 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVizzoni&layout=compact&theme=github_dark"/>
+<img <img width="41%" height="195px" align="center" src="https://github-readme-stats.vercel.app/api?username=GuiVizzoni&show_icons=true&theme=github_dark"/> 
+<img <img width="41%" height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVizzoni&layout=compact&theme=github_dark"/>
 </div>
 
 <!--## 📫 Contato  
