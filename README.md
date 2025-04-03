@@ -10,9 +10,9 @@
 - **Mobile:** React Native  
 
 ## 📈 Estatísticas do GitHub  
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GuiVizzoni&show_icons=true&theme=dark)  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GuiVizzoni&show_icons=true&theme=github_dark)  
 
-![Linguagens mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVizzoni&layout=compact&theme=dark)
+![Linguagens mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVizzoni&layout=compact&theme=github_dark)
 
 <!--## 📫 Contato  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Girelli-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-girelli-bezerra-62ab69300)  
