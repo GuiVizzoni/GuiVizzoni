@@ -5,12 +5,14 @@
 💡 Apaixonado por desenvolvimento e aprendizado contínuo  
 
 ## 🚀 Habilidades  
-- **Frontend:** HTML, CSS  
-- **Backend:** Python, C, C#, Java, SQL  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Python, C, C#, SQL  
 - **Mobile:** React Native  
 
 ## 📈 Estatísticas do GitHub  
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GuiVizzoni&show_icons=true&theme=dark)  
+
+![Linguagens mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVizzoni&layout=compact&theme=dark)
 
 <!--## 📫 Contato  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Girelli-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-girelli-bezerra-62ab69300)  
