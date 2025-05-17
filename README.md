@@ -12,7 +12,7 @@
 ## 📈 Estatísticas do GitHub  
 <div>
 <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuiVizzoni&show_icons=true&theme=github_dark"/> 
-<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVizzoni&layout=compact&theme=github_dark"/>
+<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVizzoni&layout=compact&theme=github_dark"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuiVizzoni&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
