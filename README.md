@@ -11,13 +11,15 @@
 
 ## 📈 Estatísticas do GitHub  
 <div>
-<img <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=GuiVizzoni&show_icons=true&theme=github_dark"/> 
-<img <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVizzoni&layout=compact&theme=github_dark"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuiVizzoni&show_icons=true&theme=github_dark"/> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiVizzoni&layout=compact&theme=github_dark"/>
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuiVizzoni&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--## 📫 Contato  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Girelli-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-girelli-bezerra-62ab69300)  
-📧 Email: [lucasgirelli15@hotmail.com](mailto:lucasgirelli15@hotmail.com)  
+[![LinkedIn]](https://www.linkedin.com/in/guilherme-vizzoni-07b146265/)
+📧 Email: [guilhermevizzoni05@gmail.com](guilhermevizzoni05@gmail.com)  
 
 <!--
 **GuiVizzoni/GuiVizzoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
