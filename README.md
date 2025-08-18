@@ -17,22 +17,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuiVizzoni&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--## 📫 Contato  
-[![LinkedIn]](https://www.linkedin.com/in/guilherme-vizzoni-07b146265/)
-📧 Email: [guilhermevizzoni05@gmail.com](guilhermevizzoni05@gmail.com)  
-
-<!--
-**GuiVizzoni/GuiVizzoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-![Linguagens mais Utilizadas]
-![Estatísticas do GitHub]
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+<p align="center">
+    <a href="https://www.linkedin.com/in/guilherme-vizzoni-07b146265/">
+        <img src="https://skillicons.dev/icons?i=linkedin&perline=5" />
+    </a>
+    <a href="guilhermevizzoni05@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail&perline=5" />
+    </a>
+</p>
