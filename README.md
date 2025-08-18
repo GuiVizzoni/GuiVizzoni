@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Guilherme Vizzoni Haidmann 
 
-🎓 Estudante de Ciência da Computação na [Universidade Vila Velha (UVV)](https://www.uvv.br/) - 5º período  
+🎓 Estudante de Ciência da Computação na [Universidade Vila Velha (UVV)](https://www.uvv.br/) - 6º período  
 💼 Em busca de um estágio na área de tecnologia  
 💡 Apaixonado por desenvolvimento e aprendizado contínuo  
 
@@ -22,7 +22,7 @@
     <a href="https://www.linkedin.com/in/guilherme-vizzoni-07b146265/">
         <img src="https://skillicons.dev/icons?i=linkedin&perline=5" />
     </a>
-    <a href="guilhermevizzoni05@gmail.com">
+    <a href="mailto:guilhermevizzoni05@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail&perline=5" />
     </a>
 </p>
