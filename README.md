@@ -5,7 +5,7 @@
 💡 Apaixonado por desenvolvimento e aprendizado contínuo  
 
 ## 🚀 Habilidades  
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Python, C, C#, SQL  
 - **Mobile:** React Native  
 
