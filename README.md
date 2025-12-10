@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Guilherme Vizzoni Haidmann 
 
-🎓 Estudante de Ciência da Computação na [Universidade Vila Velha (UVV)](https://www.uvv.br/) - 6º período  
+🎓 Estudante de Ciência da Computação na [Universidade Vila Velha (UVV)](https://www.uvv.br/) - 7º período  
 💼 Em busca de um estágio na área de tecnologia  
 💡 Apaixonado por desenvolvimento e aprendizado contínuo  
 
